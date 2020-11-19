@@ -3,103 +3,11 @@
 <head>
 	<meta charset="utf-8"> 
 	<title>Bootstrap 实例 - 模态框（Modal）插件</title>
-	<link rel="stylesheet" href="../../bootstrap-3.3.7-dist/css/bootstrap.min.css">
-	<script src="../../jquery_k/jquery-3.5.1/jquery-3.5.1.min.js"></script>
-	<script src="../../bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
-	<script>
-		$(function(){
-			$(".b1").click(function(){
-				$(this).parent().next().find(".u1").slideToggle()
-			})
-		})
-	</script>
-	<style>
-		@media screen and (max-width:767px) {
-		.navbar .navbar-collapse a.item {
-   		 width: calc(100% - 20px);
-		}
-			}
-			@media (min-width: 768px) {
-				.b1 {
-				display: block;
-  			}
-			  .d4{
-				  float: left !important;
-			  }
-			  .d3{
-				  float: none;
-			  }
-			  .u1{
-				  display: block;
-			  }
-		}
-		@media (max-width: 992px) {
-			.u1>li{
-				  float: none;
-			  }
-			  .u1{
-				  float: none !important;
-				  display: none;
-			  }
-		}
-		@media (min-width: 992px) {
-  			.b1 {
-				display: none !important;
-			  }
-			  .d3{
-				  float: left;
-			  }
-		}
-		.pad{
-			padding: 0;
-		}
-		.bac{
-			background-color: #ffffff;
-			border: none;
-			margin-bottom: 0;
-			box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1);
-			padding: 8px 0;
-		}
-		.navbar .navbar-collapse {
-   			 text-align: center;
-		}
-		.navbar .navbar-right a.item {
-    color: #212121;
-    font-size: 16px;
-    line-height: 1;
-    text-transform: uppercase;
-    letter-spacing: 0;
-    margin: 3.5px 10px 1.5px;
-    padding: 8.5px 0;
-    border-bottom: 2px solid transparent;
-	display: inline-block;
-	font-weight: bold;
-}
-.navbar .navbar-right .bb2:hover{
-	border-bottom: 2px solid #06b632;
-}
-.navbar .navbar-right a.btn{
-	background-color: #f9f9f9;
-	border-radius: 25px;
-	padding: 12px 18px;
-    margin: 0 10px;
-}
-.navbar .navbar-right .btn:hover{
-	background-color: #06b632;
-	color: #ffffff;
-}
-.navbar .navbar-brand img.logo {
-    height: 75px;
-    margin-left: -12px;
-    display: block;
-    float: left;
-}
-.t1{
-	height: auto;
-	padding-top: 0;
-	padding-bottom: 0;
-}
-	</style>
+	<link rel="stylesheet" href="js/bootstrap-3.3.7-dist/css/bootstrap.min.css">
+	<script src="js/jquery_k/jquery-3.5.1/jquery-3.5.1.min.js"></script>
+	<script src="js/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+	<link href="css/ld.css" rel="stylesheet">
+	<script src="js/ld.js"></script>
 </head>
 <body>
 	<nav class="navbar navbar-default bac" role="navigation">
@@ -114,8 +22,8 @@
 					
 					<div class="navbar-collapse in">
 						<ul class="nav navbar-nav navbar-right u1" style="margin-top: 15px;">
-							<li style="border-bottom: 2px solid #06b632;">
-								 <a href="#" class="item">Features</a>
+							<li>
+								 <a href="#" class="item" style="border-bottom: 2px solid #06b632;">Features</a>
 							</li>
 							<li>
 								<a href="#" class="item bb2">Pricing</a>
@@ -137,7 +45,4 @@
 				</div>
 		</nav>
 </body>
-<script>
-	
-</script>
 </html>
