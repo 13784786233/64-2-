@@ -1,0 +1,355 @@
+@media screen and (max-width:1200px){
+    .one{
+        display: none;
+    }
+}
+.navbar-brand img{
+    height: 28px;
+}
+.navbar-nav{
+    font-size: 18px;
+    margin-left: 40px;
+}
+@media screen and (min-width:770px){
+    .yangshi1{
+        display: none;
+    }
+}
+@media screen and (max-width:770px){
+    .yangshi2{
+        display: none;
+    }
+}
+    .tou{
+        width: 100%;
+        height: 9.07rem;
+        background-image: url(../images/1.png);
+        background-size: 100% 100%;
+    }
+    .ai{
+        width: 100%;
+        height: 3.5rem;
+        display: flex;
+        justify-content: space-around;
+    }
+    .ai1{
+        width: 48%;
+        height: 100%;
+        font-size: 0.45rem;
+        color: #000;
+        line-height: 3.5rem;
+    }
+    .ai1 img{
+        width: 100%;
+        height: 100%;
+    }
+    .kong{
+        width: 100%;
+        height: 0.2rem;
+    }
+    .chakan{
+        width: 100%;
+        height: 2rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+.ck_1{
+    width: 2.5rem;
+    height: 0.8rem;
+    background: #2472dc;
+    border-radius: 2rem;
+    text-align: center;
+    line-height: 0.8rem;
+    
+}
+.ck_1 a{
+    font-size: 0.3rem;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
+.jiaru{
+    width: 100%;
+    height: 1.9rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #efefef;
+}
+.jr_1{
+    font-size: 0.45rem;
+    border-bottom: 0.06rem solid #646464;
+}
+.kaoshi{
+    width: 100%;
+    height: 6rem;
+    background-image: url(../images/4.jpg);
+    background-size: 100% 100%;
+    text-align: center;
+    font-size: 0.38rem;
+    color: #fff;
+    overflow: hidden;
+}
+.ks_1{
+    margin-top: 2.5rem;
+}
+.xiangshang{
+    width: 100%;
+    height: 1.4rem;
+    background: #efefef;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #efefef;
+    border-bottom: 0.02rem solid #eeeeee;
+}
+.xiangshang img{
+    width: 1.1rem;
+    height: 1.1rem;
+}
+.shishi1{
+    border-top: 0.02rem #ccc solid;
+    border-bottom: 0.02rem #ccc solid;
+}
+.shishi{
+    width: 80%;
+    height: 1.9rem;
+    margin: auto;
+    display: flex;
+}
+.ss_1{
+    width: 34%;
+    height: 100%;
+    text-align: center;
+    font-size: 0.32rem;
+    line-height: 1.9rem;
+}
+.ss_2{
+    width: 66%;
+    height: 100%;
+    line-height: 1.9rem;
+}
+.ss_2 img{
+    width: 0.46rem;
+    height: 0.46rem;
+}
+.ss_2_1{
+    margin-left: 0.8rem;
+}
+.jieshao{
+    width: 100%;
+    height: 1.2rem;
+    display: flex;
+}
+.js_1{
+    width: 33.33%;
+    height: 100%;
+    font-size: 0.38rem;
+    color: #ccc;
+    line-height: 1.2rem;
+    text-align: center;
+}
+.js_1_1{
+    width: 3rem;
+    height: 4rem;
+    position: relative;
+    top: -5.2rem;
+    left: 0.2rem;
+    display:none ;
+}
+.js_1_1_1{
+    list-style-type: none;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    box-shadow: 0rem 0.1rem 0.1rem #ccc;
+}
+.js_1_1_1 li{
+    width: 100%;
+    height: 25%;
+}
+.js_1_1_1 li a{
+    text-decoration: none;
+    color:#ccc;
+}
+.di{
+    width: 100%;
+    height: 0.8rem;
+    font-size: 0.24rem;
+    text-align: center;
+    line-height: 0.8rem;
+    background: #ccc;
+}
+.ys2_banner{
+    width:100%;
+    height: 5rem;
+}
+.ys2_banner img{
+    width: 100%;
+    height: 100%;
+}
+.ys2_dao{
+    width: 100%;
+    height: 1.5rem;
+    background: #f5f5f5;
+}
+.ys2_dao_1{
+    width: 70%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.ys2_dao_1_1{
+    width: 30%;
+    height: 90%;
+}
+.ys2_dao_1_1 img{
+    width: 100%;
+    height: 100%;
+}
+.ys2_dao_1_1_1{
+    width: 100%;
+    height: 0.3rem;
+    background: #ccd6e2;
+    position: relative;
+    top: -0.3rem;
+    font-size: 0.08rem;
+    text-align: center;
+    line-height: 0.3rem;
+}
+.ys2_dongtai{
+    width: 100%;
+    height: 3.8rem;
+}
+.ys2_dongtai1{
+    width: 70%;
+    height: 100%;
+    margin: auto;
+}
+.ys2_dh1{
+    width: 100%;
+    height: 0.5rem;
+    font-size: 0.16rem;
+    text-align: center;
+    line-height: 0.5rem;
+    color: #ccd;
+    border-bottom: 0.01rem solid #ccc;
+}
+.ys2_dh2{
+    width: 100%;
+    height: 3.2rem;
+    display: flex;
+}
+.ys2_dh21{
+    width: 50%;
+    height: 100%;
+}
+.ys2_dh211{
+    font-size: 0.12rem;
+    margin-top: 0.1rem;
+}
+.ys2_dh212{
+    width: 90%;
+    height: 80%;
+    margin-left: 0.2rem;
+}
+.ys2_dh2121{
+    width: 100%;
+    height: 16.66%;
+    font-size: 0.1rem;
+}
+.ys2wen{
+    font-size: 0.08rem;
+    margin-top: -0.09rem;
+}
+.ys2_dh2121 a{
+    color: #000;
+}
+.ys2_dh2122{
+    font-size: 0.1rem;
+    text-align: right;
+    padding-right: 0.9rem;
+}
+.ys2_dh2122 a{
+    text-decoration: none;
+    color: #000;
+}
+.ys2_dh3{
+    width: 90%;
+    height: 80%;
+    margin-left: 0.2rem;
+}
+.ys2_dh31{
+    width: 100%;
+    height: 48%;
+    margin-bottom: 0.08rem;
+    display: flex;
+    justify-content: space-between;
+}
+.ys2_dh311{
+    width: 49%;
+    height: 100%;
+    background: #2472dc;
+}
+.ys2_dh311 img{
+    width: 100%;
+    height: 100%;
+}
+.ys2_dh3111{
+    width: 100%;
+    height: 0.3rem;
+    background-color: rgba(213, 213, 213, 0.7);
+    position: relative;
+    top: -0.3rem;
+    font-size: 0.06rem;
+    text-align: center;
+    line-height: 0.3rem;
+    overflow: hidden;
+}
+.ys2_gongzuo{
+    width: 100%;
+    height: 2.8rem;
+    background-image: url("../images/4.jpg");
+    background-size: 100% 100%;
+}
+.ys2_gz1{
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+}
+.ys2_gz11{
+    width: 70%;
+    height: 100%;
+    margin: auto;
+}
+.ys2_gz111{
+    width: 100%;
+    height: 1.8rem;
+    margin-top: 0.3rem;
+    display: flex;
+    justify-content: space-between;
+}
+.ys2_gz1111{
+    width: 32%;
+    height: 100%;
+    color: #fff;
+}
+.ys2_gz11111{
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    line-height: 0.4rem;
+}
+.ys2_gz11112{
+    width: 100%;
+    height: 80%;
+}
+.ys2_gz11112 img{
+    width: 100%;
+    height: 100%;
+}
