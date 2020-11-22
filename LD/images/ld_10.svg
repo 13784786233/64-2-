@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 59 (101010) - https://sketch.com -->
+    <title>8A4556AC-D757-4AAE-A270-777BD9166A30@1.00x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M48.75,42.5 C48.75,39.125 45.153125,36.19375 39.80625,34.54375 C37.51875,37.4625 33.996875,39.375 30,39.375 C26.003125,39.375 22.48125,37.4625 20.19375,34.54375 C14.846875,36.19375 11.25,39.125 11.25,42.5 L11.25,48.75 L14.375,48.75 L16.115625,48.75 L39.375,48.75 L42.5,48.75 L43.884375,48.75 L48.75,48.75 L48.75,42.5 Z M36.25,17.5 C36.25,14.046875 33.453125,11.25 30,11.25 C26.546875,11.25 23.75,14.046875 23.75,17.5 L23.75,26.875 C23.75,30.328125 26.546875,33.125 30,33.125 C33.453125,33.125 36.25,30.328125 36.25,26.875 L36.25,17.5 Z M51.875,55 L44.8625,55 L15.1375,55 L8.125,55 C6.4,55 5,53.6 5,51.875 L5,42.5 C5,36.675 10.15,31.65 17.7125,28.965625 C17.59375,28.284375 17.5,27.590625 17.5,26.875 L17.5,17.5 C17.5,10.596875 23.096875,5 30,5 C36.903125,5 42.5,10.596875 42.5,17.5 L42.5,26.875 C42.5,27.590625 42.40625,28.284375 42.2875,28.965625 C49.85,31.65 55,36.675 55,42.5 L55,51.875 C55,53.6 53.6,55 51.875,55 L51.875,55 Z" id="path-1"></path>
+        <linearGradient x1="7.6875%" y1="-12.1523438%" x2="100%" y2="116.397135%" id="linearGradient-3">
+            <stop stop-color="#D4A89D" offset="0%"></stop>
+            <stop stop-color="#E6B996" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="50" height="50"></rect>
+    </defs>
+    <g id="Business-LP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Features" transform="translate(-332.000000, -2629.000000)">
+            <g id="Icon/sm/User" transform="translate(327.000000, 2624.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Person-Icon"></g>
+                <g id="UI/Color/Flat/-Primary" mask="url(#mask-2)" fill-rule="evenodd">
+                    <g transform="translate(5.000000, 5.000000)" id="Fill">
+                        <g>
+                            <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                            <use fill="#487BF9" xlink:href="#path-4"></use>
+                            <use fill="#06B632" xlink:href="#path-4"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

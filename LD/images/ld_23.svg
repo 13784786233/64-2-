@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>plus</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M24.1599998,24.16 L24.1599998,6.16 L31.1599998,6.16 L31.1599998,24.16 L49.84,24.16 L49.84,31.16 L31.1599998,31.16 L31.1599998,49.84 L24.1599998,49.84 L24.1599998,31.16 L6.16,31.16 L6.15999985,24.16 L24.1599998,24.16 Z" id="path-1"></path>
+    </defs>
+    <g id="plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#39ac86" xlink:href="#path-1"></use>
+    </g>
+</svg>
